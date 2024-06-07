@@ -5,19 +5,20 @@
 ## Hi guys, my name is Arthur Arash and I like technology and programming, but I don't like to code, lol!👨🏽‍💻
 
 <div style="display: inline_block"><br>
-
+  <img align="center" alt="Photoshop" height="30" width="40" src="https://icongr.am/devicon/photoshop-line.svg?size=148&color=2e6dff">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Bootstrap" height="30" width="40" src="https://icongr.am/devicon/bootstrap-plain-wordmark.svg?size=148&color=7c0594">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="C" height="30" width="40" src="https://icongr.am/devicon/c-original.svg?size=148&color=7c0594">
-  <img align="center" alt="Docker" height="40" width="50" src="https://icongr.am/devicon/docker-original-wordmark.svg?size=148&color=currentColor">
   <img align="center" alt="GIThub" height="40" width="50" src="https://icongr.am/devicon/github-original-wordmark.svg?size=148&color=a6ff00">
   <img align="center" alt="Linux" height="40" width="50" src="https://icongr.am/devicon/linux-original.svg?size=148&color=000000">
-  <img align="center" alt="Photoshop" height="40" width="50" src="https://icongr.am/devicon/photoshop-line.svg?size=148&color=2e6dff">
   <img align="center" alt="git" height="40" width="50" src="https://icongr.am/devicon/git-original.svg?size=148&color=2e6dff">
   <img align="center" alt="Mysql" height="70" width="80" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=148&color=2e6dff">
   <img align="center" alt="SLACK" height="70" width="80" src="https://icongr.am/devicon/slack-original-wordmark.svg?size=148&color=000000">
+  <!-- 
+  <img align="center" alt="Docker" height="40" width="50" src="https://icongr.am/devicon/docker-original-wordmark.svg?size=148&color=currentColor">
+  -->
 </div>
   
   ##
