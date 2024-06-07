@@ -14,10 +14,10 @@
   <img align="center" alt="Docker" height="40" width="50" src="https://icongr.am/devicon/docker-original-wordmark.svg?size=148&color=currentColor">
   <img align="center" alt="GIThub" height="40" width="50" src="https://icongr.am/devicon/github-original-wordmark.svg?size=148&color=a6ff00">
   <img align="center" alt="Linux" height="40" width="50" src="https://icongr.am/devicon/linux-original.svg?size=148&color=000000">
-  <img align="center" alt="SLACK" height="40" width="50" src="https://icongr.am/devicon/slack-original-wordmark.svg?size=148&color=000000">
-  <img align="center" alt="Rafa-C" height="40" width="50" src="https://icongr.am/devicon/photoshop-line.svg?size=148&color=2e6dff">
-  <img align="center" alt="Rafa-C" height="40" width="50" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=148&color=2e6dff">
-  <img align="center" alt="Rafa-C" height="40" width="50" src="https://icongr.am/devicon/git-original.svg?size=148&color=2e6dff">
+  <img align="center" alt="Photoshop" height="40" width="50" src="https://icongr.am/devicon/photoshop-line.svg?size=148&color=2e6dff">
+  <img align="center" alt="git" height="40" width="50" src="https://icongr.am/devicon/git-original.svg?size=148&color=2e6dff">
+  <img align="center" alt="Mysql" height="70" width="80" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=148&color=2e6dff">
+  <img align="center" alt="SLACK" height="70" width="80" src="https://icongr.am/devicon/slack-original-wordmark.svg?size=148&color=000000">
 </div>
   
   ##
