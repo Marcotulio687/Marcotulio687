@@ -50,16 +50,16 @@ Welcome to my GitHub profile! I'm Arthur Arash, a technology enthusiast with a p
 ## 📈 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurbric&layout=compact&theme=radical)
 
-## 📝 Latest Blog Posts
+<!-- ## 📝 Latest Blog Posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 ## 🚀 Projects
 Here are some of the projects I've been working on:
 
-- **Project 1**: Description of project 1.
-- **Project 2**: Description of project 2.
-- **Project 3**: Description of project 3.
+- **Project 1**: 2Gater: A site for organizing parties
+- **Project 2**: I developed an incident reporting website for CEUB  
+- **Project 3**: I created a 3D museum using C language and OpenGL with help of Guilherme GHZ
 
 <!--
 ## 🔗 Useful Links
