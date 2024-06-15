@@ -2,7 +2,7 @@
 ---
 
 <div style="float: left; width: 20%; margin-right: 10px;">
-  <img width="15%" src="https://media.discordapp.net/attachments/1232832846633242637/1248445343972986940/ezgif.com-animated-gif-maker_1.gif?ex=6663b0d4&is=66625f54&hm=f288283c64c935a5583b68f87886c7ad0882ea997f97d8ef430706d1058c4bd7&=" target="_blank">
+  <img width="15%" src="https://www.icegif.com/wp-content/uploads/2022/04/icegif-1270.gif" target="_blank">
   <!-- 
   https://picrew.me/en/image_maker/338224#google_vignette
   gift maker 
@@ -10,13 +10,13 @@
   -->
 </div>
 
-# Hi guys, my name is Arthur Arash and I like technology and programming, but I don't like to code, lol!👨🏽‍💻
+# Hi guys, my name is Marco Túlio and I like technology and programming, but I don't like to code, lol!👨🏽‍💻
 <!-- 
 icon 
 https://emojipedia.org/pt/castor
 -->
 
-Welcome to my GitHub profile! I'm Arthur Arash, a technology enthusiast with a passion for programming. Although I don't particularly enjoy coding, I love exploring new technologies and creating cool projects.
+Welcome to my GitHub profile! I'm Marco Túlio, a technology enthusiast with a passion for programming. Although I don't particularly enjoy coding, I love exploring new technologies and creating cool projects.
 
 ## 🛠️ Skills & Tools
 <div style="display: inline_block"><br>
