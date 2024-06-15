@@ -2,7 +2,7 @@
 ---
 
 <div style="float: left; width: 20%; margin-right: 10px;">
-  <img width="15%" src="https://www.icegif.com/wp-content/uploads/2022/04/icegif-1270.gif" target="_blank">
+  <img width="15%" src="https://media.tenor.com/MYaoHv7vvoUAAAAj/laughing-miles-morales.gif" target="_blank">
   <!-- 
   https://picrew.me/en/image_maker/338224#google_vignette
   gift maker 
